@@ -18,7 +18,7 @@
 <img src="https://img.shields.io/badge/-WordPress-21759B.svg?logo=WordPress&style=flat ">
 <img src="https://img.shields.io/badge/-Git-333.svg?logo=Git&style=flat ">
 <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=GitHub&style=flat ">
-<img src="https://img.shields.io/badge/-AdobePhotoshop-181717.svg?logo=Adobe Photoshop&style=flat ">
+<img src="https://img.shields.io/badge/-Adobe Photoshop-181717.svg?logo=AdobePhotoshop&style=flat ">
 <img src="https://img.shields.io/badge/-AdobePremierePro-181717.svg?logo=AdobePremierePro&style=flat ">
 <img src="https://img.shields.io/badge/-AdobeXD-181717.svg?logo=AdobeXD&style=flat ">
 <img src="https://img.shields.io/badge/-VisualStudioCode-007ACC.svg?logo=VisualStudioCode&style=flat ">
