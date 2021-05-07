@@ -6,4 +6,5 @@
 * 📺 Youtube @Channel name/Komugi Fu Fu - [link](https://www.youtube.com/channel/UCdZuIqqgSz6WyxvJrbTQDOg?view_as=subscriber)
 * 📖 Blog - [link]()
 * 📝 Portfolio - [link]()
-*
+
+https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<green>
