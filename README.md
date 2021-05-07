@@ -10,7 +10,6 @@
 ## 🌱Learning
 
 <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat "><img src="https://img.shields.io/badge/-CSS3-157286.svg?logo=css3&style=flat ">
-<img src="https://img.shields.io/badge/-CSS3-157286.svg?logo=css3&style=flat ">
 <img src="https://img.shields.io/badge/Javascript-333.svg?logo=javascript&style=flat ">
 <img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jQuery&style=flat ">
 <img src="https://img.shields.io/badge/-PHP-333.svg?logo=php&style=flat ">
