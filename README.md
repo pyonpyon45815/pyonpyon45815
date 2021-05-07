@@ -1,4 +1,4 @@
-### Hello World 🐰
+## Hello World 🐰
 
 * 👨 I am a salesman learning programming 💻
 * 🐦 Twitter @pyonpyon45815 - [link](https://twitter.com/pyonpyon45815)
@@ -7,7 +7,7 @@
 * 📖 Blog - [link]()
 * 📝 Portfolio - [link]()
 
-## 🌱Learning
+### 🌱Learning
 
 <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat "><img src="https://img.shields.io/badge/-CSS3-157286.svg?logo=css3&style=flat ">
 <img src="https://img.shields.io/badge/Javascript-333.svg?logo=javascript&style=flat ">
