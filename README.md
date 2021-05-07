@@ -7,4 +7,4 @@
 * 📖 Blog - [link]()
 * 📝 Portfolio - [link]()
 
-https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<green>
+https://img.shields.io/badge/${テスト}-${テスト}-${orange}.svg
