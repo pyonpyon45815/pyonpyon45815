@@ -1,3 +1,3 @@
 ### I'm Komugi 🐰
 
-* テスト
+* 👨 I am a salesman learning programming 💻
