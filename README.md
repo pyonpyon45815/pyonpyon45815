@@ -7,10 +7,20 @@
 * 📖 Blog - [link]()
 * 📝 Portfolio - [link]()
 
+## 🌱Learning
 
-<img src="https://img.shields.io/badge/PHP-ccc.svg?style=for-the-badge&logo=gitlab">
-<img src="https://img.shields.io/badge/Javascript-276DC3.svg?logo=javascript&style=flat">
-<img src="https://img.shields.io/badge/-TypeScript-007ACC.svg?logo=typescript&style=flat">
-<img src="https://img.shields.io/badge/-Python-F9DC3E.svg?logo=python&style=flat">
-<img src="https://img.shields.io/badge/-CSS3-1572B6.svg?logo=css3&style=flat">
-<img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
+<img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat ">
+<img src="https://img.shields.io/badge/-CSS3-157286.svg?logo=css3&style=flat ">
+<img src="https://img.shields.io/badge/Javascript-333.svg?logo=javascript&style=flat ">
+<img src="https://img.shields.io/badge/-jQuery-0769AD.svg?logo=jQuery&style=flat ">
+<img src="https://img.shields.io/badge/-PHP-333.svg?logo=php&style=flat ">
+<img src="https://img.shields.io/badge/-Sass-333.svg?logo=Sass&style=flat ">
+<img src="https://img.shields.io/badge/-WordPress-21759B.svg?logo=WordPress&style=flat ">
+<img src="https://img.shields.io/badge/-Git-333.svg?logo=Git&style=flat ">
+<img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=GitHub&style=flat ">
+<img src="https://img.shields.io/badge/-Adobe Photoshop-181717.svg?logo=Adobe Photoshop&style=flat ">
+<img src="https://img.shields.io/badge/-Adobe Premiere Pro-181717.svg?logo=Adobe Premiere Pro&style=flat ">
+<img src="https://img.shields.io/badge/-Adobe XD-181717.svg?logo=Adobe XD&style=flat ">
+<img src="https://img.shields.io/badge/-Visual Studio Code-007ACC.svg?logo=Visual Studio Code&style=flat ">
+<img src="https://img.shields.io/badge/-MySQL-333.svg?logo=MySQL&style=flat ">
+<img src="https://img.shields.io/badge/-React-333.svg?logo=React&style=flat ">
