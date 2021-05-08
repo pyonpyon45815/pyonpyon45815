@@ -32,5 +32,5 @@
 <!-- ソースコード統計 -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyonpyon45815&layout=compact)](https://github.com/pyonpyon45815)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/pyonpyon45815?username=pyonpyon45815)](https://github.com/pyonpyon45815/github-readme-stats)
-Demo
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
