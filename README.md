@@ -30,4 +30,4 @@
 [![Komugi's github stats](https://github-readme-stats.vercel.app/api?username=pyonpyon45815&hide=contribs&count_private=true&show_icons=true&theme=Gradient)](https://github.com/pyonpyon45815/)
 
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyonpyon45815&layout=compact&theme=Gradient)](https://github.com/pyonpyon45815/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyonpyon45815&layout=compact)](https://github.com/pyonpyon45815)
