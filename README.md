@@ -27,7 +27,7 @@
 ## 🔥 Status
 
 <!-- リポジトリステータス -->
-[![Komugi's github stats](https://github-readme-stats.vercel.app/api?username=pyonpyon45815&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/pyonpyon45815/)
+[![Komugi's github stats](https://github-readme-stats.vercel.app/api?username=pyonpyon45815&hide=contribs&count_private=true&show_icons=true&theme=outrun)](https://github.com/pyonpyon45815/)
 
 <!-- ソースコード統計 -->
-[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ユーザ名&layout=compact&theme=tokyonight)](https://github.com/ユーザ名/)
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pyonpyon45815&layout=compact&theme=outrun)](https://github.com/pyonpyon45815/)
