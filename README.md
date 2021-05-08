@@ -24,7 +24,7 @@
 <img src="https://img.shields.io/badge/-MySQL-333.svg?logo=MySQL&style=flat ">
 <img src="https://img.shields.io/badge/-React-333.svg?logo=React&style=flat ">
 
-## 🔥 Status
+### 🔥 Status
 
 <!-- リポジトリステータス -->
 [![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=pyonpyon45815&hide=contribs&count_private=true&show_icons=true&theme=outrun)](https://github.com/pyonpyon45815/)
