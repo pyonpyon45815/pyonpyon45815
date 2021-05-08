@@ -23,3 +23,11 @@
 <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC.svg?logo=VisualStudioCode&style=flat ">
 <img src="https://img.shields.io/badge/-MySQL-333.svg?logo=MySQL&style=flat ">
 <img src="https://img.shields.io/badge/-React-333.svg?logo=React&style=flat ">
+
+## 🔥 Status
+
+<!-- リポジトリステータス -->
+[![hogehoge's github stats](https://github-readme-stats.vercel.app/api?username=ユーザ名&hide=contribs&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/ユーザ名/)
+
+<!-- ソースコード統計 -->
+[![Top used Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ユーザ名&layout=compact&theme=tokyonight)](https://github.com/ユーザ名/)
