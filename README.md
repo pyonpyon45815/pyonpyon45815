@@ -21,8 +21,10 @@
 <img src="https://img.shields.io/badge/-Git-333.svg?logo=Git&style=flat ">
 <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=GitHub&style=flat ">
 <img src="https://img.shields.io/badge/-Adobe Photoshop-181717.svg?logo=AdobePhotoshop&style=flat ">
+<img src="https://img.shields.io/badge/-Adobe Lightroom-31A8FF.svg?logo=AdobeLightroom&style=flat ">
 <img src="https://img.shields.io/badge/-Adobe Premiere Pro-181717.svg?logo=AdobePremierePro&style=flat ">
 <img src="https://img.shields.io/badge/-Adobe XD-181717.svg?logo=AdobeXD&style=flat ">
+<img src="https://img.shields.io/badge/-Adobe After Effects-9999FF.svg?logo=AdobeAfterEffects&style=flat ">
 <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC.svg?logo=VisualStudioCode&style=flat ">
 <img src="https://img.shields.io/badge/-MySQL-333.svg?logo=MySQL&style=flat ">
 <img src="https://img.shields.io/badge/-React-333.svg?logo=React&style=flat ">
@@ -30,7 +32,17 @@
 <img src="https://img.shields.io/badge/-Ruby on Rails-CC0000.svg?logo=RubyonRails&style=flat ">
 <img src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat">
 <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
-
+<img src="https://img.shields.io/badge/-Tailwind CSS-38B2AC.svg?logo=TailwindCSS&style=flat">
+<img src="https://img.shields.io/badge/-Amazon AWS-232F3E.svg?logo=AmazonAWS&style=flat">
+<img src="https://img.shields.io/badge/-Adobe Creative Cloud-DA1F26.svg?logo=AdobeCreativeCloud&style=flat">
+<img src="https://img.shields.io/badge/-Canva-00C4CC.svg?logo=Canva&style=flat">
+<img src="https://img.shields.io/badge/-Evernote-00A82D.svg?logo=Evernote&style=flat">
+<img src="https://img.shields.io/badge/-npm-CB3837.svg?logo=npm&style=flat">
+<img src="https://img.shields.io/badge/-Font Awesome-339AF0.svg?logo=FontAwesome&style=flat">
+<img src="https://img.shields.io/badge/-JSON-000000.svg?logo=JSON&style=flat">
+<img src="https://img.shields.io/badge/-Dell-007DB8.svg?logo=Dell&style=flat">
+<img src="https://img.shields.io/badge/-Corsair-000000.svg?logo=Corsair&style=flat">
+<img src="https://img.shields.io/badge/-Google Chrome-4285F4.svg?logo=GoogleChrome&style=flat">
 
 
 
