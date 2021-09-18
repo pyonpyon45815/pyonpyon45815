@@ -3,7 +3,7 @@
 👨プログラミング学習中です💻
 * 🐦 Twitter @pyonpyon45815 - [link](https://twitter.com/pyonpyon45815)
 * 😻 Github @pyonpyon45815 - [link](https://github.com/pyonpyon45815)
-* 📺 Youtube @Channel/こむぎ夫婦 - [link](https://www.youtube.com/channel/UCdZuIqqgSz6WyxvJrbTQDOg?view_as=subscriber)
+* 📺 Youtube こむぎ夫婦 - [link](https://www.youtube.com/channel/UCdZuIqqgSz6WyxvJrbTQDOg?view_as=subscriber)
 * 📖 Blog - [link]()
 * 📝 Portfolio - [link]()
 
