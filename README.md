@@ -27,7 +27,7 @@
 <img src="https://img.shields.io/badge/-MySQL-333.svg?logo=MySQL&style=flat ">
 <img src="https://img.shields.io/badge/-React-333.svg?logo=React&style=flat ">
 <img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=Ruby&style=flat ">
-<img src="https://img.shields.io/badge/-Ruby on Rails-CC0000.svg?logo=Rails&style=flat ">
+<img src="https://img.shields.io/badge/-Ruby on Rails-CC0000.svg?logo=RubyonRails&style=flat ">
 <img src="https://img.shields.io/badge/-Linux-6C6694.svg?logo=linux&style=flat">
 <img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
 
