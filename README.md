@@ -3,7 +3,7 @@
 👨プログラミング学習中です💻
 * 🐦 Twitter @pyonpyon45815 - [link](https://twitter.com/pyonpyon45815)
 * 😻 Github @pyonpyon45815 - [link](https://github.com/pyonpyon45815)
-* 📺 Youtube @Channel name/Komugi Fu Fu - [link](https://www.youtube.com/channel/UCdZuIqqgSz6WyxvJrbTQDOg?view_as=subscriber)
+* 📺 Youtube @Channel name/こむぎ夫婦 - [link](https://www.youtube.com/channel/UCdZuIqqgSz6WyxvJrbTQDOg?view_as=subscriber)
 * 📖 Blog - [link]()
 * 📝 Portfolio - [link]()
 
