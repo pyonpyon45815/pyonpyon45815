@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/-npm-CB3837.svg?logo=npm&style=flat">
 <img src="https://img.shields.io/badge/-Font Awesome-339AF0.svg?logo=FontAwesome&style=flat">
 <img src="https://img.shields.io/badge/-JSON-000000.svg?logo=JSON&style=flat">
-<img src="https://img.shields.io/badge/-Google Chrome-4285F4.svg?logo=GoogleChrome&style=flat">
+<img src="https://img.shields.io/badge/-Google Chrome-333.svg?logo=GoogleChrome&style=flat">
 
 
 
