@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/-Tailwind CSS-38B2AC.svg?logo=TailwindCSS&style=flat">
 <img src="https://img.shields.io/badge/-Amazon AWS-232F3E.svg?logo=AmazonAWS&style=flat">
 <img src="https://img.shields.io/badge/-Adobe Creative Cloud-DA1F26.svg?logo=AdobeCreativeCloud&style=flat">
-<img src="https://img.shields.io/badge/-Canva-00C4CC.svg?logo=Canva&style=flat">
+<img src="https://img.shields.io/badge/-Canva-333.svg?logo=Canva&style=flat">
 <img src="https://img.shields.io/badge/-Evernote-333.svg?logo=Evernote&style=flat">
 <img src="https://img.shields.io/badge/-npm-333.svg?logo=npm&style=flat">
 <img src="https://img.shields.io/badge/-Font Awesome-333.svg?logo=FontAwesome&style=flat">
