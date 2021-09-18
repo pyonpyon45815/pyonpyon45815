@@ -25,6 +25,7 @@
 <img src="https://img.shields.io/badge/-MySQL-333.svg?logo=MySQL&style=flat ">
 <img src="https://img.shields.io/badge/-React-333.svg?logo=React&style=flat ">
 <img src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat">
+<img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat">
 
 
 ### 🔥 経験値
