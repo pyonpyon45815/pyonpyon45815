@@ -25,13 +25,13 @@
 <img src="https://img.shields.io/badge/-Adobe Premiere Pro-181717.svg?logo=AdobePremierePro&style=flat ">
 <img src="https://img.shields.io/badge/-Adobe XD-181717.svg?logo=AdobeXD&style=flat ">
 <img src="https://img.shields.io/badge/-Adobe After Effects-333.svg?logo=AdobeAfterEffects&style=flat ">
-<img src="https://img.shields.io/badge/-Visual Studio Code-333.svg?logo=VisualStudioCode&style=flat ">
+<img src="https://img.shields.io/badge/-Visual Studio Code-007ACC.svg?logo=VisualStudioCode&style=flat ">
 <img src="https://img.shields.io/badge/-MySQL-333.svg?logo=MySQL&style=flat ">
 <img src="https://img.shields.io/badge/-React-333.svg?logo=React&style=flat ">
-<img src="https://img.shields.io/badge/-Ruby-333.svg?logo=Ruby&style=flat ">
-<img src="https://img.shields.io/badge/-Ruby on Rails-333.svg?logo=RubyonRails&style=flat ">
+<img src="https://img.shields.io/badge/-Ruby-CC342D.svg?logo=Ruby&style=flat ">
+<img src="https://img.shields.io/badge/-Ruby on Rails-CC0000.svg?logo=RubyonRails&style=flat ">
 <img src="https://img.shields.io/badge/-Linux-333.svg?logo=linux&style=flat">
-<img src="https://img.shields.io/badge/-Windows-333.svg?logo=windows&style=flat">
+<img src="https://img.shields.io/badge/-Windows-0078D6.svg?logo=windows&style=flat">
 <img src="https://img.shields.io/badge/-Tailwind CSS-333.svg?logo=TailwindCSS&style=flat">
 <img src="https://img.shields.io/badge/-Amazon AWS-232F3E.svg?logo=AmazonAWS&style=flat">
 <img src="https://img.shields.io/badge/-Adobe Creative Cloud-333.svg?logo=AdobeCreativeCloud&style=flat">
