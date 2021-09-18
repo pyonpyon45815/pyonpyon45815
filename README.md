@@ -7,6 +7,7 @@
 * 📖 Blog - [link]()
 * 📝 Portfolio - [link]()
 
+
 ### 🌱 学習したもの
 
 <img src="https://img.shields.io/badge/-HTML5-333.svg?logo=html5&style=flat "><img src="https://img.shields.io/badge/-CSS3-157286.svg?logo=css3&style=flat ">
@@ -23,14 +24,8 @@
 <img src="https://img.shields.io/badge/-Visual Studio Code-007ACC.svg?logo=VisualStudioCode&style=flat ">
 <img src="https://img.shields.io/badge/-MySQL-333.svg?logo=MySQL&style=flat ">
 <img src="https://img.shields.io/badge/-React-333.svg?logo=React&style=flat ">
+<img src="https://img.shields.io/badge/-Rails-CC0000.svg?logo=rails&style=flat">
 
-### 🌱 学習したもの
-
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> </p>
-
-
-
-<p align="left"> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> </p>
 
 ### 🔥 経験値
 
