@@ -24,6 +24,12 @@
 <img src="https://img.shields.io/badge/-MySQL-333.svg?logo=MySQL&style=flat ">
 <img src="https://img.shields.io/badge/-React-333.svg?logo=React&style=flat ">
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://rubyonrails.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> </p>
+
 ### 🔥 経験値
 
 <!-- リポジトリステータス -->
