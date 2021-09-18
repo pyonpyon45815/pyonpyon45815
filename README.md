@@ -21,10 +21,10 @@
 <img src="https://img.shields.io/badge/-Git-333.svg?logo=Git&style=flat ">
 <img src="https://img.shields.io/badge/-GitHub-181717.svg?logo=GitHub&style=flat ">
 <img src="https://img.shields.io/badge/-Adobe Photoshop-181717.svg?logo=AdobePhotoshop&style=flat ">
-<img src="https://img.shields.io/badge/-Adobe Lightroom-31A8FF.svg?logo=AdobeLightroom&style=flat ">
+<img src="https://img.shields.io/badge/-Adobe Lightroom-333.svg?logo=AdobeLightroom&style=flat ">
 <img src="https://img.shields.io/badge/-Adobe Premiere Pro-181717.svg?logo=AdobePremierePro&style=flat ">
 <img src="https://img.shields.io/badge/-Adobe XD-181717.svg?logo=AdobeXD&style=flat ">
-<img src="https://img.shields.io/badge/-Adobe After Effects-9999FF.svg?logo=AdobeAfterEffects&style=flat ">
+<img src="https://img.shields.io/badge/-Adobe After Effects-333.svg?logo=AdobeAfterEffects&style=flat ">
 <img src="https://img.shields.io/badge/-Visual Studio Code-333.svg?logo=VisualStudioCode&style=flat ">
 <img src="https://img.shields.io/badge/-MySQL-333.svg?logo=MySQL&style=flat ">
 <img src="https://img.shields.io/badge/-React-333.svg?logo=React&style=flat ">
